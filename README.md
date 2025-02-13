@@ -3,14 +3,8 @@ Collaborator - Chetan Nadigar
 
 Abstract :
 
-Severe weather conditions such as rain and snow
-adversely affect the visual quality of images captured under
-such conditions thus rendering them useless for further usage
-and sharing. In addition, such degraded images drastically affect
-performance of vision systems. Hence, it is important to address
-the problem of single image de-raining. However, the inherent
-ill-posed nature of the problem presents several challenges. We
-attempt to leverage powerful generative modeling capabilities
+Severe weather conditions such as rain and snow adversely affect the visual quality of images captured under such conditions thus rendering them useless for further usage and sharing. In addition, such degraded images drastically affect performance of vision systems. Hence, it is important to address
+the problem of single image de-raining. However, the inherent ill-posed nature of the problem presents several challenges. We attempt to leverage powerful generative modeling capabilities
 of the recently introduced Conditional Generative Adversarial
 Networks (CGAN) by enforcing an additional constraint that
 the de-rained image must be indistinguishable from its corresponding ground truth clean image. The adversarial loss from
