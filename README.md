@@ -2,6 +2,7 @@
 Collaborator - Chetan Nadigar
 
 Abstract :
+
 Severe weather conditions such as rain and snow
 adversely affect the visual quality of images captured under
 such conditions thus rendering them useless for further usage
