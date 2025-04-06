@@ -1,4 +1,4 @@
-# Image-De-Raining-using-ID-CGAN
+# Image-De-Raining-using-CGAN
 Collaborator - Chetan Nadigar
 
 ### **Abstract**  
